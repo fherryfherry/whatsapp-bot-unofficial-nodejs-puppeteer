@@ -2,6 +2,11 @@
 
 This is a WhatsApp Bot but Unofficial version. So do it with your own risk. At this script I use Puppeeter as a chromium wrapper in NodeJS. 
 
+**Tech Stack**
+1. NodeJS & NPM
+2. Puppeeter 
+3. SQLite
+
 **How To**
 1. Install NodeJS & NPM
 2. Run `npm install`
